@@ -51,3 +51,18 @@ body{background:#0b1820;color:#edf5f3}
 .photo-panel,.photo-stack .photo-main,.heritage-grid figure{border-radius:14px;overflow:hidden}
 @media(max-width:800px){.links{background:#0c202a;border-color:rgba(190,225,220,.18)}.links a{color:#edf5f3}}
 @media(max-width:520px){.hero{padding:76px 0 68px}.hero h1{font-size:clamp(40px,11vw,58px)}}
+
+/* Family heritage gallery */
+.heritage-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.heritage-grid figure{margin:0;background:#112630;border:1px solid rgba(190,225,220,.15);border-radius:14px;overflow:hidden}
+.heritage-grid figure img{display:block;width:100%;height:235px;object-fit:cover}
+.heritage-grid figcaption{padding:17px 18px 19px}
+.heritage-grid figcaption strong{display:block;color:#f1f8f6;font:600 17px Arial,Helvetica,sans-serif;margin-bottom:6px}
+.heritage-grid figcaption span{display:block;color:#aec2bd;font-size:13px;line-height:1.55}
+.heritage-grid .heritage-feature{grid-column:span 2;grid-row:span 1}
+.heritage-grid .heritage-feature img{height:235px}
+.contact-card strong{color:#f3faf7}
+.formbox h2{color:#f3faf7}
+.formbox .eyebrow{color:#75d7cb}
+@media(max-width:900px){.heritage-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.heritage-grid{grid-template-columns:1fr 1fr;gap:10px}.heritage-grid figure img{height:155px}.heritage-grid figcaption{padding:12px}.heritage-grid figcaption strong{font-size:14px}.heritage-grid figcaption span{font-size:11px}.heritage-grid .heritage-feature{grid-column:span 2}}
