@@ -1,0 +1,168 @@
+ISI GARMENTS — WEBSITE IMAGE MAP
+
+Images are copied without changing their original filenames. Folder assignment is based on visual review of the supplied ZIP; review product fit before publishing where categories overlap.
+
+01-Knitted-Rib
+  - img004.webp
+  - img006.webp
+  - img039.webp
+  - img051.webp
+  - img062.webp
+  - img072.webp
+  - img102.webp
+
+02-Knitted-Drawcord
+  - img005.webp
+  - img017.webp
+  - img056.webp
+  - img058.webp
+  - img070.webp
+  - img091.webp
+  - img098.webp
+  - img105.webp
+  - img106.webp
+
+03-Braided-Drawcord
+  - img007.webp
+  - img008.webp
+  - img101.webp
+  - img105.webp
+  - img106.webp
+  - img134.webp
+  - img137.webp
+
+04-Braided-Paracord
+  - Bulk_Paracord_Set.webp
+  - img007.webp
+  - img119.webp
+  - img130.webp
+  - img132.webp
+
+05-Knitted-Makroma-Dori
+  - img003.webp
+  - img009.webp
+  - img017.webp
+  - img056.webp
+  - img070.webp
+  - img098.webp
+
+06-Shopping-Bags-Drawcord
+  - img122.webp
+  - img127.webp
+  - img135.webp
+  - img003.webp
+
+07-Surgical-Face-Mask-Cord
+  - img124.webp
+  - img132.webp
+  - img134.webp
+  - img137.webp
+
+08-Outdoor-Clothes-Drying-Cord
+  - img067.webp
+  - img078.webp
+  - img094.webp
+  - img095.webp
+
+09-School-Uniform-Sweater-Jersey
+  - dav-full-sleeve-school-sweater.webp
+  - winter-school-uniform-sweater.webp
+  - img111.webp
+  - img133.webp
+
+10-Winter-Caps-Mufflers
+  - img036.webp
+  - img044.webp
+  - img054.webp
+  - img060.webp
+  - img069.webp
+  - img090.webp
+  - img093.webp
+  - img139.webp
+
+11-Newborn-Baby-Suit
+  - img037.webp
+  - img043.webp
+  - img057.webp
+  - img064.webp
+  - img073.webp
+  - img080.webp
+  - img083.webp
+  - img088.webp
+
+12-Knitted-Winter-Baby-Suit
+  - img114.webp
+  - img117.webp
+  - img118.webp
+  - img129.webp
+  - img131.webp
+
+13-Knitted-Baby-Suit
+  - img050.webp
+  - img063.webp
+  - img071.webp
+  - img077.webp
+  - img085.webp
+  - img097.webp
+  - img099.webp
+
+14-All-Season-Fancy-Net-Frock
+  - img048.webp
+  - img052.webp
+  - img055.webp
+  - img061.webp
+  - img068.webp
+  - img076.webp
+  - img089.webp
+  - img112.webp
+  - img123.webp
+  - img125.webp
+
+15-Factory-Machinery
+  - img001.webp
+  - img002.webp
+  - img010.webp
+  - img011.webp
+  - img012.webp
+  - img013.webp
+  - img014.webp
+  - img015.webp
+  - img019.webp
+  - img020.webp
+  - img021.webp
+  - img022.webp
+  - img023.webp
+  - img024.webp
+  - img026.webp
+  - img028.webp
+  - img030.webp
+  - img031.webp
+  - img033.webp
+  - img034.webp
+  - img035.webp
+  - meta4.webp
+  - meta4_opt.webp
+
+16-Family-Textile-History
+  - img025.webp
+  - img027.webp
+  - img029.webp
+  - img032.webp
+  - img108.webp
+  - img109.webp
+  - img113.webp
+
+17-Branding-Quality-Packaging
+  - img016.webp
+  - meta1.webp
+  - meta1_opt.webp
+  - meta2_opt.webp
+  - meta3.webp
+  - meta3_opt.webp
+  - meta5_opt.webp
+  - meta6.webp
+  - meta6_opt.webp
+  - img018.webp
+  - img128.webp
+  - img138.webp
+
