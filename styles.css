@@ -198,3 +198,62 @@ a:focus-visible,button:focus-visible{outline:2px solid #8fe0d4;outline-offset:4p
   .story-image{height:auto;margin:0}
   .story-image img{height:auto;max-height:none;object-fit:contain}
 }
+
+/* Final mobile override: let every content photo keep its natural proportions */
+@media (max-width: 650px) {
+  main img {
+    display: block;
+    width: 100%;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    aspect-ratio: auto !important;
+    object-fit: contain !important;
+  }
+  .product-art {
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible;
+    background: transparent;
+    border: 0;
+  }
+  .product-art img {
+    height: auto !important;
+    object-fit: contain !important;
+    transform: none !important;
+  }
+  .landing-visual {
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible;
+  }
+  .landing-visual > img {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+  .photo-panel {
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible;
+  }
+  .photo-panel > img {
+    position: relative !important;
+    inset: auto !important;
+  }
+  .photo-stack {
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible;
+  }
+  .photo-stack .photo-main,
+  .photo-stack .photo-inset {
+    position: relative !important;
+    inset: auto !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+  .story-image {
+    height: auto !important;
+    min-height: 0 !important;
+  }
+}
